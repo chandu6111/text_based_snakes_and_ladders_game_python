@@ -1,0 +1,29 @@
+player1, please enter your name: abc
+player2, please enter your name: def
+abc ,It's your turn
+press 1 to continue, 0 to quit: 1
+Dice showed:  1
+abc  ,Your score is  1
+def ,It's your turn
+press 1 to continue, 0 to quit: 1
+Dice showed:  2
+def  ,Your score is  2
+abc ,It's your turn
+press 1 to continue, 0 to quit: 1
+Dice showed:  5
+abc  ,Your score is  6
+def ,It's your turn
+press 1 to continue, 0 to quit: 1
+Dice showed:  1
+Hurray ! Ladder
+def  ,Your score is  22
+abc ,It's your turn
+press 1 to continue, 0 to quit: 1
+Dice showed:  3
+abc  ,Your score is  9
+def ,It's your turn
+press 1 to continue, 0 to quit: 0
+abc  ,you scored  9
+def  ,you scored  22
+def  is leading by  13  points.
+Quitting the game, Thanks for playing.
