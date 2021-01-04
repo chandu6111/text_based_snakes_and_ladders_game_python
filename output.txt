@@ -1,0 +1,34 @@
+player1, please enter your name:chandu
+player2, please enter your name:geeksforgeeks
+chandu ,It's your turn
+press 1 to continue, 0 to quit: 1
+Dice showed:  3
+Hurray ! Ladder
+chandu  ,Your score is  22
+geeksforgeeks ,It's your turn
+press 1 to continue, 0 to quit: 1
+Dice showed:  1
+geeksforgeeks  ,Your score is  1
+chandu ,It's your turn
+press 1 to continue, 0 to quit: 1
+Dice showed:  4
+chandu  ,Your score is  26
+geeksforgeeks ,It's your turn
+press 1 to continue, 0 to quit: 1
+Dice showed:  5
+geeksforgeeks  ,Your score is  6
+chandu ,It's your turn
+press 1 to continue, 0 to quit: 1
+Dice showed:  2
+chandu  ,Your score is  28
+geeksforgeeks ,It's your turn
+press 1 to continue, 0 to quit: 1
+Dice showed:  4
+geeksforgeeks  ,Your score is  10
+chandu ,It's your turn
+press 1 to continue, 0 to quit: 1
+Dice showed:  6
+chandu  ,Your score is  30
+chandu  won by  20  points
+Congratulations ! chandu
+Quitting the game, Thanks for playing.
